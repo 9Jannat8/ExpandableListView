@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="abbreviations_list_header">
+        <item>AAC</item>
+        <item>AI</item>
+        <item>ARPANET</item>
+        <item>ALGOL</item>
+        <item>ALU</item>
+        <item>AOL</item>
+        <item>API</item>
+        <item>APT</item>
+        <item>ARP</item>
+        <item>ASP</item>
+        <item>ATM</item>
+        <item>AVI</item>
+        <item>ASCII</item>
+        <item>AT</item>
+        <item>AUI</item>
+        <item>BASIC</item>
+        <item>BCD</item>
+        <item>BHTML</item>
+        <item>BMP</item>
+        <item>BIOS</item>
+        <item>B2B</item>
+        <item>B2C</item>
+        <item>BIU</item>
+        <item>BPS</item>
+        <item>BCC</item>
+        <item>CC</item>
+        <item>CAI</item>
+        <item>CDMA</item>
+        <item>CRT</item>
+        <item>DNS</item>
+        <item>DML</item>
+        <item>DHTML</item>
+        <item>DDL</item>
+        <item>DRAM</item>
+        <item>DBMS</item>
+        <item>DVDR</item>
+        <item>DVI</item>
+        <item>DVD</item>
+        <item>Doc</item>
+        <item>DOC</item>
+        <item>DOS</item>
+        <item>DDR</item>
+        <item>DAT</item>
+        <item>CUI</item>
+        <item>CSS</item>
+        <item>CPU</item>
+        <item>CPI</item>
+        <item>COBOL</item>
+        <item>CISC</item>
+        <item>CMD</item>
+        <item>CDROM</item>
+        <item>CROM</item>
+        <item>CAM</item>
+        <item>CDRW</item>
+        <item>CD</item>
+        <item>CADD</item>
+        <item>CAD</item>
+        <item>DPI</item>
+        <item>DNA</item>
+        <item>DVR</item>
+        <item>E-Commerce</item>
+        <item>EDI</item>
+        <item>EDP</item>
+        <item>EDSAC</item>
+        <item>EDVAC</item>
+        <item>EB</item>
+        <item>EROM/EPROM</item>
+        <item>EEPROM</item>
+        <item>E-Mail</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Advanced Audio Coding
+            \n\nAAC is an audio coding standard for lossy digital audio compression. Designed to be the successor of the MP3 format, AAC generally achieves higher sound quality than MP3 at the same bit rate.</item>
+
+        <item>Artificial Intelligence
+            \n\nAI is an experimental science being developed with the purpose to understand the nature of intelligent thought and subsequent action. It is presented by machines or software (computer).</item>
+
+        <item>Advanced Research Projects Agency Network
+            \n\nARPANET was the first wide-area packet-switching network with distributed control and one of the first networks to implement the TCP/IP protocol suite.</item>
+
+        <item>Algorithmic Language
+            \n\nALGOL is a family of imperative computer programming languages originally developed in 1958</item>
+
+        <item>Arithmetic-logic unit
+            \n\nALU is the part of a computer processor (CPU) that carries out arithmetic and logic operations on the operands in computer instruction words. In some processors, the ALU is divided into two units, an arithmetic unit (AU) and a logic unit (LU).</item>
+
+        <item>America Online</item>
+        <item>Application Program Interface</item>
+        <item>Automatically Programmed Tool</item>
+        <item>Address Resolution Protocol</item>
+        <item>Active Server Pages</item>
+        <item>Asynchronous transfer mode</item>
+        <item>Audio Video Interleave</item>
+        <item>AmericanStandard Code for Information Interchange</item>
+        <item>Advanced Technology</item>
+        <item>Attachment Unit Interface</item>
+        <item>Beginner\'s All-purpose Symbolic Instruction Code</item>
+        <item>Binary Coded Decimal</item>
+        <item>Broadcast Hyper Text Markup Language</item>
+        <item>Bitmap</item>
+        <item>Basic Input Output System</item>
+        <item>Business to Business</item>
+        <item>Business to Consumer</item>
+        <item>Bus Interface Unit</item>
+        <item>Bytes Per Second</item>
+        <item>Blind Carbon Copy</item>
+        <item>Carbon Copy</item>
+        <item>Computer Aided Instruction</item>
+        <item>Code Division Multiple Access</item>
+        <item>Cathode Ray Tube</item>
+        <item>Domain Name System</item>
+        <item>Data Manipulation Language</item>
+        <item>Dynamics Hyper Text Markup Language</item>
+        <item>Data Definition Language</item>
+        <item>Dynamic Random Access Memory</item>
+        <item>Data Base Management System</item>
+        <item>Digital Versatile Disk Recordable</item>
+        <item>Digital Visual Interface</item>
+        <item>Digital Versatile Disk</item>
+        <item>Document</item>
+        <item>Department Of Corrections</item>
+        <item>Disk Operating System</item>
+        <item>Double Data Rate</item>
+        <item>Dial-a-Truck</item>
+        <item>Controlled Unclassified Information</item>
+        <item>Cascading Style Sheets</item>
+        <item>Central processing unit</item>
+        <item>Consumer Price Index</item>
+        <item>Common Business-Oriented Language</item>
+        <item>Complex Instruction Set Computer</item>
+        <item>Chairman and Managing Director</item>
+        <item>Compact Disc Read-only Memory</item>
+        <item>Control Read Only Memory</item>
+        <item>Computer Aided Manufacturing</item>
+        <item>Compact Disc-ReWritable</item>
+        <item>Compact Disc</item>
+        <item>Computer Aided Design and Drafting</item>
+        <item>Computer-aided design</item>
+        <item>Dots Per Inch</item>
+        <item>Deoxyribonucleic Acid</item>
+        <item>Digital Video Recorder</item>
+        <item>Electronic commerce</item>
+        <item>Electronic Data Interchange</item>
+        <item>Electronic data processing</item>
+        <item>Electronic Delay Storage Automatic Calculator</item>
+        <item>Electronic Discrete Variable Automatic Computer</item>
+        <item>Expanded Basic</item>
+        <item>Erasable Read Only Memory / Erasable Programmable Read-only Memory</item>
+        <item>Electrically Erasable Programmable Read-Only Memory</item>
+        <item>Electronic mail</item>
+    </string-array>
+</resources>
